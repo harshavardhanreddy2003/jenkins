@@ -11,10 +11,5 @@ pipeline{
 					echo "job2"
 				}
 			}
-		stage("any"){
-			steps{
-				echo "hi"
-				 }
-			}
 		}
 	}	
