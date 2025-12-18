@@ -6,7 +6,7 @@ pipeline{
 					echo "job1"
 				}
 			}
-		stage("job"){
+		stage("job2"){
 				steps{
 					echo "job2"
 				}
